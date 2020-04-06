@@ -1,2 +1,1 @@
 # QuantitativeAptitude
-# from RS AGGARWAL
